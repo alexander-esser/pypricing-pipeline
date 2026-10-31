@@ -1,0 +1,25 @@
+# Core data handling
+numpy
+pandas
+scipy
+
+# Generalized linear models (GLMs)
+statsmodels
+glum
+
+# Generalized additive models (GAMs)
+pygam
+
+# Gradient boosting machines (GBMs)
+lightgbm
+xgboost
+
+# General machine learning utilities (preprocessing, cross-validation, metrics)
+scikit-learn
+
+# Visualization
+matplotlib
+
+# Testing and code quality
+pytest
+pylint
